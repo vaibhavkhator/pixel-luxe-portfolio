@@ -34,7 +34,7 @@ pixel-luxe-portfolio/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/pixel-luxe-portfolio.git
+git clone https://github.com/vaibhavkhator/pixel-luxe-portfolio.git
 ```
 
 2. Open the project folder
